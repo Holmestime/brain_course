@@ -54,6 +54,8 @@ The project follows a four-stage data processing and analysis pipeline:
 - Apply high-pass filter to remove DC offset and low-frequency drift
 - Apply notch filters to eliminate power line interference
 
+**Note:** DC (Direct Current) refers to the constant voltage offset in the signal that doesn't carry useful neural information and can interfere with analysis.
+
 **Key Parameters:**
 - Low-pass cutoff: 25 Hz
 - High-pass cutoff: 20 Hz
