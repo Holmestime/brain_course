@@ -41,7 +41,7 @@ The project follows a four-stage data processing and analysis pipeline:
    ```bash
    conda create -n brain_signal_analysis python=3.8.20
    conda activate brain_signal_analysis
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 
 ### Stage 1: Data Preprocessing (`M0_preprocess.m`)
