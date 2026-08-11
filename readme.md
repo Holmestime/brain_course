@@ -1,4 +1,5 @@
 # Brain Signal Processing and Classification Framework
+<img src=".assets/qr-code.png" alt="Website url" width="200">
 
 This project provides a comprehensive pipeline for processing and analyzing brain signals (LFP data), feature extraction, and machine learning classification. It implements the methods used in our team's research paper:
 
